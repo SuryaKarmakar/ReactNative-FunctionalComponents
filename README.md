@@ -2,7 +2,7 @@
 
 ## Usage :
 
-- We can use normal JavaScript <b>function</b> keyword to create function component
+- We can use normal JavaScript <b>function</b> keyword to create function component :
 
 ```js
 export default function App() {
@@ -10,7 +10,7 @@ export default function App() {
 }
 ```
 
-- Or we can also use JavaScript ES6 <b>Arrow function</b> to create function component
+- Or we can also use JavaScript ES6 <b>Arrow function</b> to create function component :
 
 ```js
 const App = () => {
@@ -18,7 +18,7 @@ const App = () => {
 };
 ```
 
-You can export your <b>ES6</b> function component with JavaScript’s <b>export default</b> for use throughout your app
+- You can export your <b>ES6</b> function component with JavaScript’s <b>export default</b> for use throughout your app :
 
 ```js
 const App = () => {
