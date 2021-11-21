@@ -1,5 +1,7 @@
 # React Native Functional Component
 
+Functional components are functions that takes in props and return JSX. They do not natively have state or lifecycle methods, but this functionality can be added by implementing React Hooks. Functional components are usually used to display information. They are easy to read, debug, and test.
+
 ## Usage :
 
 - We can use normal JavaScript <b>function</b> keyword to create function component :
